@@ -4,6 +4,8 @@
 
 - Node Is:
 
+[Setup Node ](./Explain_Setup_Node.md)
+
 # H
 
 <h1>عنوان كبير</h1>
