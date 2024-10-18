@@ -24,3 +24,4 @@ _______________
 - وستجد نفسك في نافذة الترحيب كما هو موضح في الشكل.
 
 ![نافذة الترحيب](https://learncodingeasy.github.io/Images/images/Node/Setup/1.png)
+<img src="https://learncodingeasy.github.io/Images/images/Node/Setup/1.png" alt="Image" style="width: 100%;">
