@@ -23,5 +23,8 @@ _______________
 - سيتم تشغيل المثبت التفاعلي،
 - وستجد نفسك في نافذة الترحيب كما هو موضح في الشكل.
 
-![نافذة الترحيب](https://learncodingeasy.github.io/Images/images/Node/Setup/1.png)
+- ![نافذة الترحيب](https://learncodingeasy.github.io/Images/images/Node/Setup/1.png)
+
+- ![نافذة الترحيب]<img src="https://learncodingeasy.github.io/Images/images/Node/Setup/1.png" alt="Image" style="width: 100%;">
+
 <img src="https://learncodingeasy.github.io/Images/images/Node/Setup/1.png" alt="Image" style="width: 100%;">
